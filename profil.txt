@@ -1,0 +1,19 @@
+    <section class="home" id="home">
+        <div class="carousel">
+            <img src="./product pict/wuthering_waves.jpg" alt="Placeholder Image" class="carousel-image">
+            <img src="./product pict/hsr.jpg" alt="Placeholder Image" class="carousel-image">
+            <img src="./product pict/arknight.jpg" alt="Placeholder Image" class="carousel-image">
+            <img src="./product pict/Genshin_Impact.jpg" alt="Placeholder Image" class="carousel-image">
+        </div>
+
+            <div class="box text-center text-lg-start ms-lg-4">
+            <a href="produk.html" class="produk-box"><h3>Belanja</h3></a>
+            <a href="profil.html" class="profil-box"><h3>Profil</h3></a>
+        </div>
+
+
+.biodata {
+    position: absolute;
+    margin-top: 240px;
+    left:160px; 
+}
